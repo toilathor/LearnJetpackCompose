@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TheFirst</string>
+    <string name="title_activity_main2">MainActivity2</string>
+    <string name="textfield_hint">Nhập dòng lệnh tại đây</string>
+    <string name="recent">Gần đây</string>
+</resources>
