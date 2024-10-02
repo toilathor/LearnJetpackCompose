@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lock Screen</string>
+    <string name="widget_description">Tắt màn hình nhanh</string>
+    <string name="tile_service_lock_screen">Lock Screen</string>
+</resources>

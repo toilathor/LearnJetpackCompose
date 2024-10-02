@@ -1,0 +1,14 @@
+<!-- [START android_compose_glance_providerxml] -->
+<appwidget-provider xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:initialLayout="@layout/glance_default_loading_layout"
+    android:minHeight="40dp"
+    android:updatePeriodMillis="1800000"
+    android:previewImage="@drawable/locks_1"
+    android:widgetCategory="home_screen|keyguard|searchbox"
+    android:initialKeyguardLayout="@drawable/locks_1"
+    android:description="@string/widget_description"
+    android:resizeMode="none"
+    tools:targetApi="s">
+</appwidget-provider>
+<!-- [END android_compose_glance_providerxml] -->
